@@ -1,6 +1,7 @@
 package main.age;
 
 
+import java.util.ArrayList;
 import java.util.Scanner;
 
 // TODO 1: Ask a user to enter their age in the terminal, check if they are older than 18, if yes write "come in", otherwise "denied"
